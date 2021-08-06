@@ -1,0 +1,16 @@
+04d7048c0fc543c1c84c526f4966047b *DESCRIPTION
+6e3baefdbdb54e045f695dd580caf6d4 *NAMESPACE
+c65e99c33dacb2c3a763d84b4afc7500 *NEWS.md
+432d77018cccc71a76aea4b9ed68fac2 *R/anes08.R
+9a93665af3a88ed8903a70707d63bf98 *R/missDiag.R
+5dc655e867f68ae88ab68049ef978a75 *R/param.R
+283ede4167913a3089579507dce1a7f8 *R/utils.R
+8638c28bba291e42dce251eb3b0470ec *R/wrapper.R
+5336915a63c8eccca6a8d4170fdeef7e *data/anes08.rda
+ec5fbccda33418e1648065bb8dbba34e *data/anes08_pmm.rda
+66858b2c19c70298628e35dc2bf25cca *data/anes08_rng.rda
+b72aa91960b8295e99247d288b888998 *man/anes08.Rd
+803011e61b357b6b305efcda013db073 *man/missDiag.Rd
+5feb502190c8075d1133e845e9c9a2b7 *man/param_cobalt.Rd
+b7f6640e05b367f3284cd9fc9956e7f4 *man/param_ebal.Rd
+3126e6d91afba453e5fb7a84bc1ae183 *man/param_sbw.Rd
